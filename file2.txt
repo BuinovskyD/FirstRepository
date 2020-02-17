@@ -1,6 +1,3 @@
 Good bye!
 Some line
-
-gfhfghgfhgfgfh
-were
-we34543543534543363343
+Line from user2
